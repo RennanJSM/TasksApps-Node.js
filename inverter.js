@@ -1,4 +1,4 @@
-const string = 'amo vocês'
+const string = 'teste'
 
 function inverter() {
     const contador = string.length;
